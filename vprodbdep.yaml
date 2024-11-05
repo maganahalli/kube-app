@@ -1,4 +1,4 @@
-apiVersion: app/v1
+apiVersion: app/latest
 kind: Deployment
 metadata:
   name: vprofiledb
